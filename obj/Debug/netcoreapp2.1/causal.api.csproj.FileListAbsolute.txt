@@ -1,0 +1,14 @@
+C:\Users\tshep\Desktop\techass\causal.api\obj\Debug\netcoreapp2.1\causal.api.csprojAssemblyReference.cache
+C:\Users\tshep\Desktop\techass\causal.api\obj\Debug\netcoreapp2.1\causal.api.csproj.CoreCompileInputs.cache
+C:\Users\tshep\Desktop\techass\causal.api\obj\Debug\netcoreapp2.1\causal.api.RazorAssemblyInfo.cache
+C:\Users\tshep\Desktop\techass\causal.api\obj\Debug\netcoreapp2.1\causal.api.RazorAssemblyInfo.cs
+C:\Users\tshep\Desktop\techass\causal.api\obj\Debug\netcoreapp2.1\causal.api.AssemblyInfoInputs.cache
+C:\Users\tshep\Desktop\techass\causal.api\obj\Debug\netcoreapp2.1\causal.api.AssemblyInfo.cs
+C:\Users\tshep\Desktop\techass\causal.api\bin\Debug\netcoreapp2.1\causal.api.deps.json
+C:\Users\tshep\Desktop\techass\causal.api\bin\Debug\netcoreapp2.1\causal.api.runtimeconfig.json
+C:\Users\tshep\Desktop\techass\causal.api\bin\Debug\netcoreapp2.1\causal.api.runtimeconfig.dev.json
+C:\Users\tshep\Desktop\techass\causal.api\bin\Debug\netcoreapp2.1\causal.api.dll
+C:\Users\tshep\Desktop\techass\causal.api\bin\Debug\netcoreapp2.1\causal.api.pdb
+C:\Users\tshep\Desktop\techass\causal.api\obj\Debug\netcoreapp2.1\causal.api.RazorTargetAssemblyInfo.cache
+C:\Users\tshep\Desktop\techass\causal.api\obj\Debug\netcoreapp2.1\causal.api.dll
+C:\Users\tshep\Desktop\techass\causal.api\obj\Debug\netcoreapp2.1\causal.api.pdb
