@@ -45,6 +45,32 @@ namespace causal.api.Controllers
             return Created("Created successfully", created);
         }
 
+
+
+        [AllowAnonymous]
+        [HttpPost("login")]
+        public async Task<IActionResult> Login(DTOUser user)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest("incorrect model state");
+            }
+
+            user.Name = user.Name.ToLower();
+
+            var userToStore = new User
+            {
+                Name = user.Name,
+                PassportNumber = user.PassportNumber,
+                IdentityNumber = user.IdentityNumber,
+                Active = true
+            };
+
+            var created = await _helper.AddUserAsync(userToStore);
+
+            return Created("Created successfully", created);
+        }
+
         [AllowAnonymous]
         [HttpPut("update/{userId}")]
         public async Task<IActionResult> UpdateUser(int userId, DTOUser user)

@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations;
+﻿using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace causal.api.Migrations
 {
@@ -11,7 +12,7 @@ namespace causal.api.Migrations
                 columns: table => new
                 {
                     Id = table.Column<int>(nullable: false)
-                        .Annotation("Sqlite:Autoincrement", true),
+                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
                     MobileNumber = table.Column<string>(nullable: true),
                     EmailAddress = table.Column<string>(nullable: true),
                     CustomerId = table.Column<int>(nullable: false),
@@ -27,7 +28,7 @@ namespace causal.api.Migrations
                 columns: table => new
                 {
                     Id = table.Column<int>(nullable: false)
-                        .Annotation("Sqlite:Autoincrement", true),
+                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
                     Name = table.Column<string>(nullable: true),
                     IdentityNumber = table.Column<string>(nullable: true),
                     PassportNumber = table.Column<string>(nullable: true),
