@@ -1,0 +1,14 @@
+C:\Users\Tshepo\Desktop\dotnet-dummy\dotnet-core\bin\Debug\netcoreapp2.2\causal.api.deps.json
+C:\Users\Tshepo\Desktop\dotnet-dummy\dotnet-core\bin\Debug\netcoreapp2.2\causal.api.runtimeconfig.json
+C:\Users\Tshepo\Desktop\dotnet-dummy\dotnet-core\bin\Debug\netcoreapp2.2\causal.api.runtimeconfig.dev.json
+C:\Users\Tshepo\Desktop\dotnet-dummy\dotnet-core\bin\Debug\netcoreapp2.2\causal.api.dll
+C:\Users\Tshepo\Desktop\dotnet-dummy\dotnet-core\bin\Debug\netcoreapp2.2\causal.api.pdb
+C:\Users\Tshepo\Desktop\dotnet-dummy\dotnet-core\obj\Debug\netcoreapp2.2\causal.api.csprojAssemblyReference.cache
+C:\Users\Tshepo\Desktop\dotnet-dummy\dotnet-core\obj\Debug\netcoreapp2.2\causal.api.csproj.CoreCompileInputs.cache
+C:\Users\Tshepo\Desktop\dotnet-dummy\dotnet-core\obj\Debug\netcoreapp2.2\causal.api.RazorAssemblyInfo.cache
+C:\Users\Tshepo\Desktop\dotnet-dummy\dotnet-core\obj\Debug\netcoreapp2.2\causal.api.RazorAssemblyInfo.cs
+C:\Users\Tshepo\Desktop\dotnet-dummy\dotnet-core\obj\Debug\netcoreapp2.2\causal.api.AssemblyInfoInputs.cache
+C:\Users\Tshepo\Desktop\dotnet-dummy\dotnet-core\obj\Debug\netcoreapp2.2\causal.api.AssemblyInfo.cs
+C:\Users\Tshepo\Desktop\dotnet-dummy\dotnet-core\obj\Debug\netcoreapp2.2\causal.api.RazorTargetAssemblyInfo.cache
+C:\Users\Tshepo\Desktop\dotnet-dummy\dotnet-core\obj\Debug\netcoreapp2.2\causal.api.dll
+C:\Users\Tshepo\Desktop\dotnet-dummy\dotnet-core\obj\Debug\netcoreapp2.2\causal.api.pdb

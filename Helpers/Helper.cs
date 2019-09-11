@@ -35,7 +35,6 @@ namespace causal.api.Helpers
             return user;
         }
 
-
         public async Task<ICollection<User>> GetAllUsers()
         {
             var user = await _context.Users.ToListAsync();
